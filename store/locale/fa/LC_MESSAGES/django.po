@@ -1,0 +1,991 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-19 10:29+0330\n"
+"PO-Revision-Date: 2024-02-19 10:30+0330\n"
+"Last-Translator: علی6 ولی زاده <alivalizade@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Translated-Using: django-rosetta 0.10.0\n"
+
+#: .\admin.py:62
+msgid "Total Sales"
+msgstr "کل فروش"
+
+#: .\admin.py:73
+msgid "Low stock"
+msgstr "موجودی انبار "
+
+#: .\admin.py:75
+msgid "# comments"
+msgstr "نظرات"
+
+#: .\models.py:11 .\models.py:25 .\models.py:231
+msgid "Title"
+msgstr "عنوان"
+
+#: .\models.py:13 .\models.py:27 .\models.py:41
+#: .\templates\store\product_detail.html:144
+msgid "Description"
+msgstr "توضیحات"
+
+#: .\models.py:14
+msgid "Top Product"
+msgstr "محصول برگزیده"
+
+#: .\models.py:20 .\models.py:21 .\models.py:39
+msgid "Category"
+msgstr "دسته بندی"
+
+#: .\models.py:26 .\models.py:33 .\models.py:34 .\models.py:47
+msgid "Discount"
+msgstr "تخفیف"
+
+#: .\models.py:38 .\models.py:193
+msgid "Name"
+msgstr "نام"
+
+#: .\models.py:40
+msgid "Slug"
+msgstr ""
+
+#: .\models.py:42 .\models.py:159 .\templates\store\product_filter.html:36
+msgid "Price"
+msgstr "قیمت"
+
+#: .\models.py:43
+msgid "Inventory"
+msgstr "موجودی"
+
+#: .\models.py:44
+msgid "Active"
+msgstr "فعال"
+
+#: .\models.py:45 .\models.py:196 .\models.py:234
+msgid "Date time Created"
+msgstr "تاریخ ایجاد:"
+
+#: .\models.py:46 .\models.py:235
+msgid "Date time modified"
+msgstr "تاریخ ویرایش:"
+
+#: .\models.py:70 .\models.py:71 .\models.py:157 .\models.py:192
+#: .\models.py:221
+msgid "Product"
+msgstr "محصول"
+
+#: .\models.py:76
+msgid "Product image"
+msgstr "عکس محصول"
+
+#: .\models.py:84 .\models.py:119
+msgid "Phone Number"
+msgstr "تلفن"
+
+#: .\models.py:85
+msgid "Birth Date"
+msgstr "تاریخ تولد"
+
+#: .\models.py:98 .\models.py:99 .\models.py:114
+msgid "Customer"
+msgstr "مشتری"
+
+#: .\models.py:104 .\models.py:123
+msgid "Province"
+msgstr "استان"
+
+#: .\models.py:105 .\models.py:122
+msgid "City"
+msgstr "شهر"
+
+#: .\models.py:106
+msgid "Street"
+msgstr "خیابان"
+
+#: .\models.py:109 .\models.py:110 .\models.py:120
+msgid "Address"
+msgstr "آدرس"
+
+#: .\models.py:115
+msgid "Is Paid?"
+msgstr "پرداخت شده؟"
+
+#: .\models.py:117
+msgid "First Name"
+msgstr "نام"
+
+#: .\models.py:118
+msgid "Last Name"
+msgstr "نام خانوادگی"
+
+#: .\models.py:124
+msgid "Postal Code"
+msgstr "کدپستی"
+
+#: .\models.py:126
+msgid "Order Notes"
+msgstr "یادداشت های سفارش"
+
+#: .\models.py:128
+msgid "Created Date"
+msgstr "ایجادشده در: "
+
+#: .\models.py:129
+msgid "Modified Date"
+msgstr "تاریخ ویرایش"
+
+#: .\models.py:131
+#| msgid "Tracking Code:"
+msgid "Tracking Code"
+msgstr "کد رهگیری:"
+
+#: .\models.py:142 .\models.py:143 .\models.py:156
+msgid "Order"
+msgstr "سفارش"
+
+#: .\models.py:158 .\models.py:222
+msgid "Quantity"
+msgstr "مقدار"
+
+#: .\models.py:172 .\models.py:173
+msgid "OrderItem"
+msgstr "آیتم های سفارش"
+
+#: .\models.py:178
+msgid "Very Bad"
+msgstr "خیلی بد"
+
+#: .\models.py:179
+msgid "Bad"
+msgstr "بد"
+
+#: .\models.py:180
+msgid "Normal"
+msgstr "متوسط"
+
+#: .\models.py:181
+msgid "Good"
+msgstr "خوب"
+
+#: .\models.py:182
+msgid "Perfect"
+msgstr "عالی"
+
+#: .\models.py:194
+msgid "Comment text"
+msgstr "متن دیدگاه"
+
+#: .\models.py:195
+msgid "Your score?"
+msgstr "امتیاز شما به محصول؟"
+
+#: .\models.py:197 .\models.py:237
+msgid "Status"
+msgstr "وضعیت"
+
+#: .\models.py:206 .\models.py:207
+msgid "Comment"
+msgstr "نظرات"
+
+#: .\models.py:212
+msgid "Created at:"
+msgstr "ایجاد در: "
+
+#: .\models.py:215 .\models.py:216 .\models.py:220
+msgid "Cart"
+msgstr "سبد خرید"
+
+#: .\models.py:226 .\models.py:227
+msgid "CartItem"
+msgstr "آیتم های سبد خرید"
+
+#: .\models.py:232
+msgid "Post text"
+msgstr "متن پست"
+
+#: .\models.py:236
+msgid "Post image"
+msgstr "عکس پست"
+
+#: .\models.py:243 .\models.py:244 .\templates\store\blog.html:9
+#: .\templates\store\blog.html:10
+msgid "Blog"
+msgstr "وبلاگ"
+
+#: .\models.py:248
+msgid "User"
+msgstr "کاربر"
+
+#: .\models.py:249
+msgid "Products"
+msgstr "محصولات"
+
+#: .\models.py:255
+msgid "Wishlist"
+msgstr "لیست علاقه مندی"
+
+#: .\models.py:256
+msgid "Wishlists"
+msgstr "لیست علاقه مندی ها"
+
+#: .\templates\store\aboutus.html:9 .\templates\store\aboutus.html:10
+#: .\templates\store\aboutus.html:26
+msgid "About Us"
+msgstr "درباره ما"
+
+#: .\templates\store\aboutus.html:27
+msgid "Fitzone Trusted Online Shopping Site in the World"
+msgstr "فروشگاه Fitzone همه جا مورد اعتماد است."
+
+#: .\templates\store\aboutus.html:28
+msgid "Fitzone.com offers you flexible and responsive shopping experience."
+msgstr "Fitzone.com تجربه خرید انعطاف پذیر و پاسخگو را به شما ارائه می دهد."
+
+#: .\templates\store\aboutus.html:29
+msgid "Fitzone"
+msgstr "Fitzone"
+
+#: .\templates\store\aboutus.html:29
+msgid ""
+"is an eCommerce website which features millions of products, i.e. clothes, "
+"shoes, bags, electronic items and much more, with all at incredible prices."
+msgstr ""
+"یک وب‌سایت تجارت الکترونیک است که هزاران محصول، مانند لباس، کفش، کیف، اقلام "
+"الکترونیکی و موارد دیگر را با قیمت‌های باورنکردنی ارائه می‌کند."
+
+#: .\templates\store\aboutus.html:30 .\templates\store\aboutus.html:45
+#: .\templates\store\sidebar.html:17
+msgid "One of the most popular on the web is shopping."
+msgstr "یکی از محبوب ترین ها در خرید آنلاین است."
+
+#: .\templates\store\aboutus.html:33
+msgid "Ships to more than 10 countries and regions"
+msgstr "ارسال به بیش از 10 کشور و منطقه"
+
+#: .\templates\store\aboutus.html:34
+msgid ""
+"We provide customers with a hassle-free and worry-free international "
+"shopping experience from buying to delivery."
+msgstr ""
+"ما یک تجربه خرید بین المللی بدون دردسر و بدون نگرانی از خرید تا تحویل را به "
+"مشتریان ارائه می دهیم."
+
+#: .\templates\store\aboutus.html:44
+msgid "Our Story"
+msgstr "فروشگاه ما"
+
+#: .\templates\store\aboutus.html:48
+msgid "People like Fitzone"
+msgstr "مردم Fitzone را دوست دارند."
+
+#: .\templates\store\aboutus.html:49
+msgid "World's finest Fitzone"
+msgstr "دنیا با fitzone جای بهتری است"
+
+#: .\templates\store\aboutus.html:50
+msgid "The original Fitzone"
+msgstr "Fitzone اصلی"
+
+#: .\templates\store\aboutus.html:51
+msgid "We trust Fitzone"
+msgstr "ما به Fitzone اعتماد داریم"
+
+#: .\templates\store\aboutus.html:58
+msgid "Our Values"
+msgstr "ارزش های ما"
+
+#: .\templates\store\aboutus.html:59
+msgid "The best of both worlds. Store and web."
+msgstr "بهترین از هر دو جهان. فروشگاه و وب."
+
+#: .\templates\store\aboutus.html:62
+msgid "Always in style!"
+msgstr "همیشه در سبک!"
+
+#: .\templates\store\aboutus.html:63
+msgid "Discover your favorite shopping"
+msgstr "خرید مورد علاقه خود را تجربه کنید"
+
+#: .\templates\store\aboutus.html:64
+msgid "Find yourself"
+msgstr "خودتان را پیدا کنید."
+
+#: .\templates\store\aboutus.html:65
+msgid "Feel-good shopping"
+msgstr "خرید خوبی داشته باشید"
+
+#: .\templates\store\aboutus.html:72
+msgid "Our Promise"
+msgstr "تعهدات ما"
+
+#: .\templates\store\aboutus.html:73
+msgid "Rediscover a great shopping tradition"
+msgstr "یک خرید عالی را دوباره تجربه کنید"
+
+#: .\templates\store\aboutus.html:76
+msgid "Get better shopping"
+msgstr "خرید بهتری داشته باشید"
+
+#: .\templates\store\aboutus.html:77
+msgid "Love shopping again"
+msgstr "دوباره عاشق خرید کردن شوید"
+
+#: .\templates\store\aboutus.html:78
+msgid "Online shopping."
+msgstr "خرید آنلاین"
+
+#: .\templates\store\aboutus.html:79
+msgid "Shopping for all seasons"
+msgstr "خریدی برای تمام فصول"
+
+#: .\templates\store\aboutus.html:95
+msgid "Limited Time Offer!"
+msgstr "تخفیف مدت محدود!"
+
+#: .\templates\store\aboutus.html:96 .\templates\store\product_area.html:138
+#: .\templates\store\product_list_partial.html:80
+msgid "OFF"
+msgstr "تخفیف "
+
+#: .\templates\store\aboutus.html:97
+msgid "Get The Best Deals Now"
+msgstr "اکنون بهترین معاملات را دریافت کنید"
+
+#: .\templates\store\aboutus.html:98
+msgid "Discover Now"
+msgstr "اکنون استفاده کنید"
+
+#: .\templates\store\aboutus.html:110
+msgid "Our Partners"
+msgstr "شرکای ما"
+
+#: .\templates\store\aboutus.html:130
+msgid "Testimonials"
+msgstr "گواهینامه ها"
+
+#: .\templates\store\aboutus.html:131
+msgid "What Clients Says About Us"
+msgstr "آنچه مشتریان درباره ما می گویند"
+
+#: .\templates\store\best_sell_product.html:9
+msgid "Best Sell Products"
+msgstr "محصولات پر فروش"
+
+#: .\templates\store\best_sell_product.html:10
+#: .\templates\store\men_shop.html:10 .\templates\store\new_products.html:10
+#: .\templates\store\popular_product.html:10
+#: .\templates\store\product_list.html:12 .\templates\store\women_shop.html:10
+msgid "products"
+msgstr "محصولات"
+
+#: .\templates\store\best_sell_product.html:17
+msgid "Best sell"
+msgstr "بهترین فروش"
+
+#: .\templates\store\blog.html:32
+msgid "Read Story"
+msgstr "داستان را بخوانید"
+
+#: .\templates\store\category_area.html:13
+msgid "New Collections!"
+msgstr "مجموعه های جدید!"
+
+#: .\templates\store\category_area.html:27
+msgid "Our Popular Products"
+msgstr "محصولات محبوب"
+
+#: .\templates\store\category_area.html:39
+msgid "Hot Trending Products"
+msgstr "محصولات پرطرفدار"
+
+#: .\templates\store\category_area.html:51
+msgid "Winter Collections!"
+msgstr "مجموعه های زمستانی!"
+
+#: .\templates\store\checkout.html:13 .\templates\store\checkout.html:14
+msgid "Checkout"
+msgstr "بررسی"
+
+#: .\templates\store\checkout.html:24
+msgid "Hello"
+msgstr "سلام"
+
+#: .\templates\store\checkout.html:25 .\templates\store\checkout.html:27
+msgid "Do you want to register orders?"
+msgstr "آیا می خواهید سفارشتان را ثبت کنید؟"
+
+#: .\templates\store\checkout.html:28
+msgid "Please login"
+msgstr "لطفا وارد شوید"
+
+#: .\templates\store\checkout.html:131
+msgid "Your Order"
+msgstr "سفارش شما"
+
+#: .\templates\store\checkout.html:137
+msgid "Product Name"
+msgstr "نام محصول"
+
+#: .\templates\store\checkout.html:138
+msgid "Total"
+msgstr "جمع کل"
+
+#: .\templates\store\checkout.html:150 .\templates\store\checkout.html:160
+#: .\templates\store\checkout.html:170 .\templates\store\checkout.html:180
+#: .\templates\store\product_area.html:125
+#: .\templates\store\product_area.html:126
+#: .\templates\store\product_detail.html:49
+#: .\templates\store\product_detail.html:50
+#: .\templates\store\product_list_partial.html:68
+#: .\templates\store\product_list_partial.html:69
+#: .\templates\store\quickview.html:26 .\templates\store\quickview.html:27
+#: .\templates\store\wishlist.html:32
+msgid "$"
+msgstr "ریال"
+
+#: .\templates\store\checkout.html:156
+msgid "Cart Subtotal"
+msgstr "مبلغ کل سبد خرید"
+
+#: .\templates\store\checkout.html:166
+#: .\templates\store\product_detail.html:96
+#: .\templates\store\size_guide.html:161
+msgid "Shipping"
+msgstr "کرایه حمل"
+
+#: .\templates\store\checkout.html:176
+msgid "Order Total"
+msgstr "مجموع سفارش"
+
+#: .\templates\store\checkout.html:191
+msgid "Direct Bank Transfer"
+msgstr "انتقال مستقیم بانکی"
+
+#: .\templates\store\checkout.html:192
+msgid ""
+"Make your payment directly into our bank account. Please use your Order ID "
+"as the payment reference. Your order will not be shipped until the funds "
+"have cleared in our account."
+msgstr ""
+"پرداخت خود را مستقیماً به حساب بانکی ما انجام دهید. لطفا از شناسه سفارش خود "
+"به عنوان مرجع پرداخت استفاده کنید. سفارش شما تا زمانی که وجوه در حساب ما "
+"تسویه نشده باشد ارسال نخواهد شد."
+
+#: .\templates\store\checkout.html:200
+msgid "Cash on Delivery"
+msgstr "پرداخت نقدی هنگام تحویل"
+
+#: .\templates\store\checkout.html:206
+msgid "Place Order"
+msgstr "ثبت سفارش"
+
+#: .\templates\store\facility_area.html:12
+msgid "Free Shipping Worldwide"
+msgstr "ارسال رایگان به سراسر جهان"
+
+#: .\templates\store\facility_area.html:19
+msgid "Easy Return Policy"
+msgstr "سیاست بازگشت آسان"
+
+#: .\templates\store\facility_area.html:26
+msgid "7 Day Exchange Policy"
+msgstr "سیاست تبادل 7 روزه"
+
+#: .\templates\store\facility_area.html:33
+msgid "Weekend Discount Coupon"
+msgstr "کوپن تخفیف آخر هفته"
+
+#: .\templates\store\facility_area.html:40
+msgid "Secure Payment Methods"
+msgstr "روش های پرداخت امن"
+
+#: .\templates\store\facility_area.html:47
+msgid "Track Your Package"
+msgstr "بسته خود را پیگیری کنید"
+
+#: .\templates\store\facility_area.html:54
+msgid "24/7 Customer Support"
+msgstr "پشتیبانی 7/24"
+
+#: .\templates\store\facility_area.html:65
+msgid "Follow us on"
+msgstr "ما را دنبال کنید"
+
+#: .\templates\store\men_shop.html:9 .\templates\store\product_filter.html:26
+msgid "Men's"
+msgstr "مردانه"
+
+#: .\templates\store\my_account.html:9
+msgid "My Account"
+msgstr "حساب من"
+
+#: .\templates\store\my_account.html:10
+msgid "MyAccount"
+msgstr "حساب من"
+
+#: .\templates\store\new_products.html:9
+msgid "New Products"
+msgstr "محصولات جدید"
+
+#: .\templates\store\new_products.html:17
+msgid "New"
+msgstr "جدید! "
+
+#: .\templates\store\payment.html:13
+msgid "Payment verify"
+msgstr "تأیید پرداخت"
+
+#: .\templates\store\payment.html:14
+msgid "Payment"
+msgstr "پرداخت"
+
+#: .\templates\store\payment.html:20
+msgid "Tracking Code:"
+msgstr "کد رهگیری:"
+
+#: .\templates\store\popular_product.html:9
+msgid "Popular Products"
+msgstr "محصولات محبوب"
+
+#: .\templates\store\popular_product.html:17
+msgid "Popular"
+msgstr "محبوب"
+
+#: .\templates\store\product_area.html:20
+msgid "Filter"
+msgstr "فیلتر"
+
+#: .\templates\store\product_area.html:22
+msgid "View:"
+msgstr "بازدید:"
+
+#: .\templates\store\product_area.html:51
+msgid "Showing"
+msgstr "نمایش"
+
+#: .\templates\store\product_area.html:51
+msgid "of"
+msgstr "از"
+
+#: .\templates\store\product_area.html:57
+msgid "Sort by Price: Low to High"
+msgstr "مرتب سازی بر اساس قیمت: کم به زیاد"
+
+#: .\templates\store\product_area.html:58
+msgid "Default Sorting"
+msgstr "مرتب سازی پیش فرض"
+
+#: .\templates\store\product_area.html:59
+msgid "Sort by Popularity"
+msgstr "مرتب سازی بر اساس محبوبیت"
+
+#: .\templates\store\product_area.html:60
+msgid "Sort by Average Rating"
+msgstr "مرتب سازی بر اساس میانگین امتیاز"
+
+#: .\templates\store\product_area.html:61
+msgid "Sort by Latest"
+msgstr "مرتب سازی بر اساس آخرین"
+
+#: .\templates\store\product_area.html:62
+msgid "Sort by Price: High to Low"
+msgstr "مرتب سازی بر اساس قیمت: زیاد به کم"
+
+#: .\templates\store\product_area.html:89
+#: .\templates\store\product_detail.html:114
+#: .\templates\store\product_detail.html:308
+#: .\templates\store\product_list_partial.html:31
+msgid "Add to Wishlist"
+msgstr "به لیست علاقه مندی ها اضافه کنید"
+
+#: .\templates\store\product_area.html:97
+#: .\templates\store\product_detail.html:316
+#: .\templates\store\product_list_partial.html:39
+msgid "Compare"
+msgstr "مقایسه کنید"
+
+#: .\templates\store\product_area.html:105
+#: .\templates\store\product_detail.html:324
+#: .\templates\store\product_list_partial.html:47
+msgid "Quick View"
+msgstr "مشاهده سریع"
+
+#: .\templates\store\product_area.html:118
+#: .\templates\store\product_detail.html:55
+#: .\templates\store\product_list_partial.html:61
+#: .\templates\store\quickview.html:32
+msgid "Score"
+msgstr "امتیاز"
+
+#: .\templates\store\product_area.html:131
+#: .\templates\store\product_detail.html:108
+#: .\templates\store\product_list_partial.html:74
+#: .\templates\store\quickview.html:79
+msgid "Add to Cart "
+msgstr "افزودن به سبد خرید"
+
+#: .\templates\store\product_detail.html:13
+msgid "Product details"
+msgstr "جزئیات محصول"
+
+#: .\templates\store\product_detail.html:61
+#: .\templates\store\quickview.html:38
+msgid "reviews"
+msgstr "بازدیدها"
+
+#: .\templates\store\product_detail.html:65
+#: .\templates\store\quickview.html:42
+msgid "Vendor:"
+msgstr "فروشنده: "
+
+#: .\templates\store\product_detail.html:65
+#: .\templates\store\quickview.html:42
+msgid "Lereve"
+msgstr ""
+
+#: .\templates\store\product_detail.html:66
+#: .\templates\store\quickview.html:43
+msgid "Availability:"
+msgstr "دسترس پذیری: "
+
+#: .\templates\store\product_detail.html:66
+#: .\templates\store\quickview.html:43
+msgid "In stock"
+msgstr "در انبار "
+
+#: .\templates\store\product_detail.html:66
+#: .\templates\store\quickview.html:43
+msgid "items"
+msgstr "مورد"
+
+#: .\templates\store\product_detail.html:67
+#: .\templates\store\quickview.html:44
+msgid "Products Type:"
+msgstr "نوع محصول:"
+
+#: .\templates\store\product_detail.html:71
+#: .\templates\store\product_detail.html:169
+#: .\templates\store\quickview.html:48
+msgid "Color:"
+msgstr "رنگ: "
+
+#: .\templates\store\product_detail.html:83
+#: .\templates\store\product_detail.html:173
+#: .\templates\store\quickview.html:60
+msgid "Size:"
+msgstr "سایز: "
+
+#: .\templates\store\product_detail.html:95
+msgid "Size guide"
+msgstr "راهنمای سایز"
+
+#: .\templates\store\product_detail.html:97
+msgid "Ask about this products"
+msgstr "در مورد این محصولات بپرسید"
+
+#: .\templates\store\product_detail.html:115
+msgid "Add to Compare"
+msgstr "افزودن برای مقایسه"
+
+#: .\templates\store\product_detail.html:148
+msgid "Additional Information"
+msgstr "اطلاعات تکمیلی"
+
+#: .\templates\store\product_detail.html:152
+msgid "Reviews"
+msgstr "بازدیدها"
+
+#: .\templates\store\product_detail.html:177
+msgid "Material:"
+msgstr "جنس: "
+
+#: .\templates\store\product_detail.html:181
+msgid "Height:"
+msgstr "ارتفاع:"
+
+#: .\templates\store\product_detail.html:185
+msgid "Bust:"
+msgstr "دور سینه:"
+
+#: .\templates\store\product_detail.html:189
+msgid "Waist:"
+msgstr "دور کمر:"
+
+#: .\templates\store\product_detail.html:193
+msgid "Hips:"
+msgstr "دور باسن:"
+
+#: .\templates\store\product_detail.html:197
+msgid "Shipping:"
+msgstr "حمل و نقل:"
+
+#: .\templates\store\product_detail.html:217
+msgid "on"
+msgstr "در"
+
+#: .\templates\store\product_detail.html:224
+msgid "Write a Review"
+msgstr "یک نظر بنویسید"
+
+#: .\templates\store\product_detail.html:289
+msgid "Our Shop"
+msgstr "فروشگاه ما"
+
+#: .\templates\store\product_detail.html:290
+msgid "Related Products"
+msgstr "محصولات مرتبط"
+
+#: .\templates\store\product_detail.html:345
+msgid "Add to Cart"
+msgstr "افزودن به سبد خرید"
+
+#: .\templates\store\product_filter.html:8
+msgid "Current Selection"
+msgstr "انتخاب فعلی"
+
+#: .\templates\store\product_filter.html:14
+#: .\templates\store\product_filter.html:28
+msgid "Clothing"
+msgstr "لباس"
+
+#: .\templates\store\product_filter.html:15
+#: .\templates\store\product_filter.html:29
+msgid "Shoes"
+msgstr "کفش"
+
+#: .\templates\store\product_filter.html:18
+msgid "Clear All"
+msgstr "پاک کردن"
+
+#: .\templates\store\product_filter.html:23
+msgid "Collections"
+msgstr "مجموعه ها"
+
+#: .\templates\store\product_filter.html:27
+msgid "Women’s"
+msgstr "زنانه"
+
+#: .\templates\store\product_filter.html:30
+msgid "Accessories"
+msgstr "اکسسوری"
+
+#: .\templates\store\product_filter.html:31
+msgid "Uncategorized"
+msgstr "دسته بندی نشده"
+
+#: .\templates\store\product_filter.html:44
+msgid "Size"
+msgstr "سایز"
+
+#: .\templates\store\product_filter.html:61
+msgid "Color"
+msgstr "رنگ: "
+
+#: .\templates\store\product_filter.html:81
+msgid "Brands"
+msgstr "برندها"
+
+#: .\templates\store\product_filter.html:97
+msgid "Top Trending"
+msgstr "پرطرفدارترین"
+
+#: .\templates\store\product_filter.html:98
+msgid "Spring/Summer 2021 Collection"
+msgstr "مجموعه بهار/تابستان 2021"
+
+#: .\templates\store\product_list.html:11
+msgid "Store"
+msgstr "فروشگاه"
+
+#: .\templates\store\product_list_partial.html:9
+msgid "See Our Collection"
+msgstr "مجموعه های ما را ببینید"
+
+#: .\templates\store\quickview.html:44
+msgid "T-Shirt"
+msgstr ""
+
+#: .\templates\store\quickview.html:83
+msgid "View Full Info"
+msgstr "مشاهده اطلاعات کامل"
+
+#: .\templates\store\sidebar.html:14
+msgid "About The Store"
+msgstr "درباره فروشگاه"
+
+#: .\templates\store\sidebar.html:20
+msgid "Imamat Street, Iran, Mashhad"
+msgstr "ایران، مشهد، خیابان امامت"
+
+#: .\templates\store\sidebar.html:36
+msgid "New In Store"
+msgstr "جدیدترین ها در فروشگاه"
+
+#: .\templates\store\sidebar.html:56
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: .\templates\store\sidebar.html:57
+msgid "Shop Now"
+msgstr "اکنون خرید کنید"
+
+#: .\templates\store\size_guide.html:13
+msgid "Size Guide"
+msgstr "راهنمای سایز"
+
+#: .\templates\store\size_guide.html:14
+msgid "This is an approximate conversion table to help you find your size."
+msgstr ""
+"این یک جدول تبدیل تقریبی است که به شما کمک می کند اندازه خود را پیدا کنید."
+
+#: .\templates\store\size_guide.html:163
+msgid "Complimentary ground shipping within 1 to 7 business days"
+msgstr "ارسال رایگان زمینی بین 1 تا 7 روز کاری"
+
+#: .\templates\store\size_guide.html:164
+msgid "In-store collection available within 1 to 7 business days"
+msgstr "مجموعه در فروشگاه ظرف 1 تا 7 روز کاری در دسترس است"
+
+#: .\templates\store\size_guide.html:165
+msgid "Next-day and Express delivery options also available"
+msgstr "گزینه های تحویل روز بعد و اکسپرس نیز موجود است"
+
+#: .\templates\store\size_guide.html:166
+msgid ""
+"Purchases are delivered in an orange box tied with a Bolduc ribbon, with the"
+" exception of certain items"
+msgstr ""
+"خریدها در جعبه نارنجی که با روبان بولدوک بسته شده است، به استثنای اقلام خاص "
+"تحویل داده می شود."
+
+#: .\templates\store\size_guide.html:167
+msgid ""
+"See the delivery FAQs for details on shipping methods, costs and delivery "
+"times"
+msgstr ""
+"برای جزئیات بیشتر در مورد روش های حمل و نقل، هزینه ها و زمان تحویل، به "
+"سوالات متداول تحویل مراجعه کنید"
+
+#: .\templates\store\size_guide.html:170
+msgid "Returns and Exchanges"
+msgstr "برگشت و تعویض"
+
+#: .\templates\store\size_guide.html:172
+msgid "Easy and complimentary, within 14 days"
+msgstr "آسان و رایگان، در عرض 14 روز"
+
+#: .\templates\store\size_guide.html:173
+msgid "See conditions and procedure in our return FAQs"
+msgstr "شرایط و روش را در سؤالات متداول بازگشت ما مشاهده کنید"
+
+#: .\templates\store\wishlist.html:17
+msgid "My Wish List"
+msgstr "لیست علاقه مندی های من"
+
+#: .\templates\store\wishlist.html:58
+msgid "View Shopping Cart"
+msgstr "مشاهده سبد خرید"
+
+#: .\templates\store\women_shop.html:9
+msgid "Women's"
+msgstr "زنانه"
+
+#: .\views.py:135
+msgid "Comment successfully created."
+msgstr "نظر با موفقیت ایجاد شد."
+
+#: .\views.py:162
+msgid "Your cart is Empty! Please add some products."
+msgstr "سبد خرید شما خالی است! لطفا چند محصول اضافه کنید"
+
+#: .\views.py:188
+msgid "Your order has successfully placed."
+msgstr "سفارش شما با موفقیت انجام شد"
+
+#~ msgid "Home"
+#~ msgstr "صفحه اصلی"
+
+#~ msgid "Returning customer?"
+#~ msgstr "مشتری برگشتی؟"
+
+#~ msgid "Click here to login"
+#~ msgstr "برای ورود اینجا کلیک کنید"
+
+#~ msgid "Billing Details"
+#~ msgstr "جزئیات صورتحساب"
+
+#~ msgid "Country"
+#~ msgstr "کشور"
+
+#~ msgid "Company Name"
+#~ msgstr "نام شرکت"
+
+#~ msgid "Town / City"
+#~ msgstr "شهر"
+
+#~ msgid "State / County"
+#~ msgstr "کشور / استان"
+
+#~ msgid "Postcode / Zip "
+#~ msgstr "کدپستی"
+
+#~ msgid "Email Address"
+#~ msgstr "ایمیل"
+
+#~ msgid "Phone"
+#~ msgstr "تلفن"
+
+#~ msgid "Create an account?"
+#~ msgstr "یک حساب کاربری ایجاد کنید"
+
+#~ msgid "Ship to a different address?"
+#~ msgstr "به آدرس دیگری ارسال شود؟"
+
+#~ msgid "I agree with the terms and conditions"
+#~ msgstr "من با شرایط و ضوابط موافقم"
+
+#~ msgid "Buy it now!"
+#~ msgstr "الان بخرش!"
+
+#~ msgid "Submit Review"
+#~ msgstr "ارسال"
+
+#~ msgid "Product successfully added to cart."
+#~ msgstr "محصول با موفقیت به سبد خرید اضافه شد."
+
+#~ msgid "Product successfully removed from cart."
+#~ msgstr "محصول با موفقیت از سبد خرید حذف شد."
+
+#~ msgid "Cart details"
+#~ msgstr "جزيیات سبد خرید"
+
+#~ msgid "Unit Price"
+#~ msgstr "قیمت واحد"
+
+#~ msgid "Update Cart"
+#~ msgstr "بروزکردن سبد خرید"
+
+#~ msgid "Proceed to Checkout"
+#~ msgstr "پرداخت "
+
+#~ msgid "Men’s"
+#~ msgstr "مردانه"
+
+#~ msgid "All product successfully removed from your cart."
+#~ msgstr "همه محصولات با موفقیت از سبد خرید شما حذف شدند."
+
+#~ msgid "Your cart is Empty."
+#~ msgstr "سبد خرید شما خالی است."
