@@ -1,3 +1,6 @@
+from django.db import models
+
+# Create your models here.
 from django.db.models import Avg, Sum
 from django.db import models
 from django.shortcuts import reverse
@@ -254,4 +257,3 @@ class Wishlist(models.Model):
     class Meta:
         verbose_name = _("Wishlist")
         verbose_name_plural = _("Wishlists")
-
